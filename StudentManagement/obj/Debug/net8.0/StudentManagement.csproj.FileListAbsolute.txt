@@ -43,3 +43,4 @@ C:\Users\Mgolbon\source\repos\StudentManagement\StudentManagement\obj\Debug\net8
 C:\Users\Mgolbon\source\repos\StudentManagement\StudentManagement\obj\Debug\net8.0\StudentManagement.genruntimeconfig.cache
 C:\Users\Mgolbon\source\repos\StudentManagement\StudentManagement\obj\Debug\net8.0\ref\StudentManagement.dll
 C:\Users\Mgolbon\source\repos\StudentManagement\StudentManagement\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Mgolbon\source\repos\StudentManagement\StudentManagement\obj\Debug\net8.0\StudentManagement.sourcelink.json
