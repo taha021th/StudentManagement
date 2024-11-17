@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mgolbon\\source\\repos\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\source\\repos\\studentmanagement\\studentmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\source\\repos\\studentmanagement\\studentmanagement\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\source\\repos\\studentmanagement\\studentmanagement\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\source\\repos\\studentmanagement\\studentmanagement\\mappings\\modelsmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\mappings\\modelsmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\source\\repos\\studentmanagement\\studentmanagement\\context\\inmemorydbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\context\\inmemorydbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\source\\repos\\studentmanagement\\studentmanagement\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\source\\repos\\studentmanagement\\studentmanagement\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\source\\repos\\studentmanagement\\studentmanagement\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\source\\repos\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 265,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\source\\repos\\StudentManagement\\StudentManagement\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\source\\repos\\StudentManagement\\StudentManagement\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagement\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:53:18.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\source\\repos\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\source\\repos\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "StudentManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:57:48.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InMemoryDbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\source\\repos\\StudentManagement\\StudentManagement\\Context\\InMemoryDbInitializer.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Context\\InMemoryDbInitializer.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\source\\repos\\StudentManagement\\StudentManagement\\Context\\InMemoryDbInitializer.cs",
+              "RelativeToolTip": "StudentManagement\\Context\\InMemoryDbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:04:42.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\source\\repos\\StudentManagement\\StudentManagement\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\source\\repos\\StudentManagement\\StudentManagement\\Services\\IStudentService.cs",
+              "RelativeToolTip": "StudentManagement\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:19:37.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\source\\repos\\StudentManagement\\StudentManagement\\Dtos\\StudentDto.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Dtos\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\source\\repos\\StudentManagement\\StudentManagement\\Dtos\\StudentDto.cs",
+              "RelativeToolTip": "StudentManagement\\Dtos\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:15:54.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\source\\repos\\StudentManagement\\StudentManagement\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\source\\repos\\StudentManagement\\StudentManagement\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:52:00.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\source\\repos\\StudentManagement\\StudentManagement\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\source\\repos\\StudentManagement\\StudentManagement\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentManagement\\Services\\StudentService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:20:14.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\source\\repos\\StudentManagement\\StudentManagement\\Context\\DataContext.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Context\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\source\\repos\\StudentManagement\\StudentManagement\\Context\\DataContext.cs",
+              "RelativeToolTip": "StudentManagement\\Context\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:57:27.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModelsMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\source\\repos\\StudentManagement\\StudentManagement\\Mappings\\ModelsMapper.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Mappings\\ModelsMapper.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\source\\repos\\StudentManagement\\StudentManagement\\Mappings\\ModelsMapper.cs",
+              "RelativeToolTip": "StudentManagement\\Mappings\\ModelsMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:19:11.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 132,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
