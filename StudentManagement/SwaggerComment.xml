@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StudentManagement</name>
+    </assembly>
+    <members>
+        <member name="M:StudentManagement.Controllers.StudentController.GetAll">
+            <summary>
+            برای استفاده نیاز به احراز هویت کاربر می باشد
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:StudentManagement.Controllers.StudentController.GetById(System.Int32)">
+            <summary>
+            برای استفاده نیاز به احراز هویت کاربر می باشد
+            </summary>
+            <param name="studentId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:StudentManagement.Controllers.StudentController.Create(StudentManagement.Dtos.StudentDto)">
+            <summary>
+            برای استفاده نیاز به احراز هویت ادمین می باشد
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:StudentManagement.Controllers.StudentController.Update(System.Int32,StudentManagement.Dtos.StudentDto)">
+            <summary>
+            برای استفاده نیاز به احراز هویت ادمین می باشد
+            </summary>
+            <param name="studentId"></param>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:StudentManagement.Controllers.StudentController.Remove(System.Int32)">
+            <summary>
+            برای استفاده نیاز به احراز هویت ادمین می باشد
+            </summary>
+            <param name="studentId"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

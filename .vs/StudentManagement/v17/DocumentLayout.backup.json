@@ -1,0 +1,491 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\studentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\context\\inmemorydbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\context\\inmemorydbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\services\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\services\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\swaggercomment.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\swaggercomment.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\resources\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\resources\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\middleware\\localizationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\middleware\\localizationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\utility\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\utility\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\utility\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\utility\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\studentmanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\utility\\swaggerstudentdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\utility\\swaggerstudentdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\mappings\\modelsmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\mappings\\modelsmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|c:\\users\\mgolbon\\downloads\\studentmanagement\\studentmanagement\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB8D338-2B22-4FD6-AFE9-89146D214255}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 265,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentManagement\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:20:14.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:52:00.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StudentManagement\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\appsettings.Development.json",
+              "RelativeToolTip": "StudentManagement\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T12:02:30.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "StudentManagement\\Program.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAowJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:57:48.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Context\\DataContext.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Context\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Context\\DataContext.cs",
+              "RelativeToolTip": "StudentManagement\\Context\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:57:27.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InMemoryDbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Context\\InMemoryDbInitializer.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Context\\InMemoryDbInitializer.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Context\\InMemoryDbInitializer.cs",
+              "RelativeToolTip": "StudentManagement\\Context\\InMemoryDbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:04:42.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Controllers\\UserController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:19:55.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Services\\IStudentService.cs",
+              "RelativeToolTip": "StudentManagement\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:19:37.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagement\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:53:18.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.csproj",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T14:06:17.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Services\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Services\\User\\UserService.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Services\\User\\UserService.cs",
+              "RelativeToolTip": "StudentManagement\\Services\\User\\UserService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA9wFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:40:20.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Services\\User\\IUserService.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Services\\User\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Services\\User\\IUserService.cs",
+              "RelativeToolTip": "StudentManagement\\Services\\User\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:40:38.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SwaggerComment.xml",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\SwaggerComment.xml",
+              "RelativeDocumentMoniker": "StudentManagement\\SwaggerComment.xml",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\SwaggerComment.xml",
+              "RelativeToolTip": "StudentManagement\\SwaggerComment.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-25T11:57:55.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\appsettings.json",
+              "RelativeToolTip": "StudentManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T12:02:26.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StudentManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StudentManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T07:46:30.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Resources\\Resource.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Resources\\Resource.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Resources\\Resource.cs",
+              "RelativeToolTip": "StudentManagement\\Resources\\Resource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:38:43.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "StudentManagement\\Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:42:46.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LocalizationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Middleware\\LocalizationMiddleware.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Middleware\\LocalizationMiddleware.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Middleware\\LocalizationMiddleware.cs",
+              "RelativeToolTip": "StudentManagement\\Middleware\\LocalizationMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:12:22.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Utility\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Utility\\PasswordHelper.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Utility\\PasswordHelper.cs",
+              "RelativeToolTip": "StudentManagement\\Utility\\PasswordHelper.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAwwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:39:29.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Utility\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Utility\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Utility\\JwtSettings.cs",
+              "RelativeToolTip": "StudentManagement\\Utility\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:07:04.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Entities\\User.cs",
+              "RelativeToolTip": "StudentManagement\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:59:13.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentManagement",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.csproj",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T11:55:37.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "StudentManagement\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:42:31.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SwaggerStudentDocument.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Utility\\SwaggerStudentDocument.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Utility\\SwaggerStudentDocument.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Utility\\SwaggerStudentDocument.cs",
+              "RelativeToolTip": "StudentManagement\\Utility\\SwaggerStudentDocument.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvyQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:47:54.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ModelsMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Mappings\\ModelsMapper.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Mappings\\ModelsMapper.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Mappings\\ModelsMapper.cs",
+              "RelativeToolTip": "StudentManagement\\Mappings\\ModelsMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:19:11.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Dtos\\StudentDto.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Dtos\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\Mgolbon\\Downloads\\StudentManagement\\StudentManagement\\Dtos\\StudentDto.cs",
+              "RelativeToolTip": "StudentManagement\\Dtos\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:15:54.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 132,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
